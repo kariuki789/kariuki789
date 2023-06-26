@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-stack developer and a data analyst
+I am a Full-stack developer and a Data Analyst
 
 
 # 💻 Tech Stack:
